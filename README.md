@@ -1,7 +1,11 @@
 # 🚀 SHATZ - Experiencia Visual
 
 Bienvenido a **SHATZ**, donde la innovación en diseño web cobra vida. Nos especializamos en soluciones digitales creativas que combinan diseño y tecnología para generar experiencias únicas y efectivas.
-Puedes visitar nuestra pagina web con este enlace: https://mbescalante.github.io/web-shatz/
+Puedes visitar nuestra página web con este enlace: [SHATZ Web](https://mbescalante.github.io/web-shatz/)  
+
+📱 También puedes escanear este QR para dirigirte desde tu teléfono directamente a la página:  
+
+![QR Code](QR/Shatz.png)
 
 ---
 
