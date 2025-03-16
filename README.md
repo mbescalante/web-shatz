@@ -5,7 +5,7 @@ Puedes visitar nuestra página web con este enlace: [SHATZ Web](https://mbescala
 
 📱 También puedes escanear este QR para dirigirte desde tu teléfono directamente a la página:  
 
-![QR Code](QR/Shatz.png)
+![QR Code](images/QR/Shatz.png)
 
 ---
 
