@@ -1356,3 +1356,11 @@ color:#fff;
 }
 
 /*Basic-Stylesheets-End-Here*/
+
+.dark-mode {
+	background-color: #121212;
+	color: white;
+  }
+  .dark-mode a {
+	color: #ffcc00;
+  }

@@ -50,6 +50,7 @@
             <li><a class="scroll" href="#contact">Contact</a></li> 
             <li>
               <a id="btn-lang" class="btn btn-primary" href="index.html">🌍 Spanish</a>
+              <a id="darkMode" class="btn btn-dark">🌙 Dark Mode</a>
             </li>           
           </ul>
         </div>
@@ -840,6 +841,13 @@
 <script type="text/javascript" src="js/jquery.inview.min.js"></script>
 <script type="text/javascript" src="js/owl.carousel.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
+<script>
+  const btnMode = document.getElementById("darkMode");
+  btnMode.addEventListener("click", function() {
+    document.body.classList.toggle("dark-mode");
+    btnMode.textContent = document.body.classList.contains("dark-mode") ? "☀️ Light Mode" : "🌙 Dark Mode";
+  });
+</script>
 </body>
 </html>
 
