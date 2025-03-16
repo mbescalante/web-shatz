@@ -7,8 +7,6 @@ Puedes visitar nuestra página web con este enlace: [SHATZ Web](https://mbescala
 
 <img src="images/QR/Shatz.png" alt="Código QR - Acceso Rápido" width="200">
 
-![QR Code](images/QR/Shatz.png)
-
 ---
 
 ## 🎯 Sobre Nosotros
